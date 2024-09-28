@@ -11,7 +11,7 @@ int main(){
 
     a = nomber - 1 ;
         for (i <= 2  ;i < a   ; i++);
-       if (nomber % i == 1)
+       if (nomber % i == 0)
         {
            printf("Ce nomber est premier .");
         }
